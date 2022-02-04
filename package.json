@@ -54,8 +54,8 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.17.0",
     "eslint-plugin-standard": "^4.0.1",
-    "react": "16.8",
-    "react-dom": "16.8"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   },
   "dependencies": {
     "@material-ui/styles": "^4.8.2",
@@ -65,7 +65,7 @@
   },
   "peerDependencies": {
     "@material-ui/core": "^4.8.3",
-    "react": "16.8"
+    "react": "^16.14.0"
   },
   "types": "src/index.d.ts"
 }
